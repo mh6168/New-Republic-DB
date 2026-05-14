@@ -1,5 +1,4 @@
-# 🚀 The New Republic
-
+# 🚀 The New Republic  
 ### Smart City Municipal Management System
 
 A modern database-driven smart-city platform designed to centralize citizen management, municipal services, transportation systems, and digital governance operations through a powerful Oracle relational database architecture.
@@ -10,19 +9,19 @@ A modern database-driven smart-city platform designed to centralize citizen mana
 
 **The New Republic** is inspired by real-world digital governance platforms such as:
 
-* 🇦🇪 Dubai Smart City Portal
-* 🇸🇬 Singapore OneService
-* 🇪🇬 Digital Egypt
-* 🏙️ Egypt’s New Administrative Capital (NAC)
+- 🇦🇪 Dubai Smart City Portal  
+- 🇸🇬 Singapore OneService  
+- 🇪🇬 Digital Egypt  
+- 🏙️ Egypt’s New Administrative Capital (NAC)
 
 The project simulates the infrastructure of a modern city by managing:
 
-🏢 Buildings
-👥 Citizens
-🪪 Citizen ID Cards
-🛠️ Municipal Services
-📨 Service Requests
-🚗 Transport Vehicles
+🏢 Buildings  
+👥 Citizens  
+🪪 Citizen ID Cards  
+🛠️ Municipal Services  
+📨 Service Requests  
+🚗 Transport Vehicles  
 
 It demonstrates how smart cities can efficiently organize and process massive interconnected datasets using Oracle Database technologies and advanced SQL concepts.
 
@@ -36,12 +35,12 @@ This project was fully designed, implemented, and tested using:
 
 Oracle Live SQL provided a complete cloud-based development environment for:
 
-✅ Database Design
-✅ SQL Query Execution
-✅ PL/SQL Development
-✅ Trigger Implementation
-✅ Relational Database Testing
-✅ Cloud-Based Database Operations
+✅ Database Design  
+✅ SQL Query Execution  
+✅ PL/SQL Development  
+✅ Trigger Implementation  
+✅ Relational Database Testing  
+✅ Cloud-Based Database Operations  
 
 The entire system was developed and validated directly on Oracle’s cloud infrastructure, showcasing real-world Oracle database development workflows.
 
@@ -49,17 +48,17 @@ The entire system was developed and validated directly on Oracle’s cloud infra
 
 # ✨ Key Features
 
-✅ Citizen Residency Management
-✅ Building Occupancy Tracking
-✅ Municipal Service Management
-✅ Service Request Processing
-✅ Digital Identity Card System
-✅ Vehicle Registration Management
-✅ Stored Procedures & SQL Functions
-✅ Automated Database Triggers
-✅ Complex Analytical Reports
-✅ Relational Database Modeling
-✅ ER Diagram & Relational Mapping
+✅ Citizen Residency Management  
+✅ Building Occupancy Tracking  
+✅ Municipal Service Management  
+✅ Service Request Processing  
+✅ Digital Identity Card System  
+✅ Vehicle Registration Management  
+✅ Stored Procedures & SQL Functions  
+✅ Automated Database Triggers  
+✅ Complex Analytical Reports  
+✅ Relational Database Modeling  
+✅ ER Diagram & Relational Mapping  
 
 ---
 
@@ -69,34 +68,34 @@ The system revolves around several interconnected entities that simulate real mu
 
 ## 📌 Core Entities
 
-* 👤 Citizens
-* 🏢 Buildings
-* 🪪 Citizen Cards
-* 🛠️ Services
-* 📨 Service Requests
-* 🚗 Transport Vehicles
+- 👤 Citizens
+- 🏢 Buildings
+- 🪪 Citizen Cards
+- 🛠️ Services
+- 📨 Service Requests
+- 🚗 Transport Vehicles
 
 ---
 
 ## 🔗 Relationships
 
-* A citizen resides in one building 🏢
-* Citizens may own multiple vehicles 🚗
-* Citizens may possess multiple ID cards 🪪
-* Citizens can request multiple municipal services 📨
-* Services can be requested by many citizens 🛠️
+- A citizen resides in one building 🏢
+- Citizens may own multiple vehicles 🚗
+- Citizens may possess multiple ID cards 🪪
+- Citizens can request multiple municipal services 📨
+- Services can be requested by many citizens 🛠️
 
 ---
 
 # ⚙️ Technologies Used
 
-| Technology               | Purpose                          |
-| ------------------------ | -------------------------------- |
-| 🟠 Oracle Live SQL Cloud | Cloud Database Environment       |
-| 💾 SQL                   | Database Queries                 |
-| ⚡ PL/SQL                 | Procedures, Functions & Triggers |
-| 🧩 ER Modeling           | Database Design                  |
-| 🏗️ Relational Mapping   | Schema Construction              |
+| Technology | Purpose |
+|---|---|
+| 🟠 Oracle Live SQL Cloud | Cloud Database Environment |
+| 💾 SQL | Database Queries |
+| ⚡ PL/SQL | Procedures, Functions & Triggers |
+| 🧩 ER Modeling | Database Design |
+| 🏗️ Relational Mapping | Schema Construction |
 
 ---
 
@@ -106,11 +105,11 @@ The system revolves around several interconnected entities that simulate real mu
 
 Implementation includes:
 
-* CREATE TABLE
-* PRIMARY KEY Constraints
-* FOREIGN KEY Relationships
-* Data Integrity Constraints
-* Relational Structure Design
+- CREATE TABLE
+- PRIMARY KEY Constraints
+- FOREIGN KEY Relationships
+- Data Integrity Constraints
+- Relational Structure Design
 
 ---
 
@@ -118,9 +117,9 @@ Implementation includes:
 
 Supported operations:
 
-* ➕ INSERT
-* ✏️ UPDATE
-* ❌ DELETE
+- ➕ INSERT
+- ✏️ UPDATE
+- ❌ DELETE
 
 ---
 
@@ -203,11 +202,11 @@ Connects transportation records with active municipal participation.
 
 # 🎯 Project Goals
 
-✅ Simulate real-world smart city infrastructure
-✅ Demonstrate advanced database concepts
-✅ Apply relational database design principles
-✅ Showcase Oracle SQL & PL/SQL implementation
-✅ Build scalable municipal system architecture
+✅ Simulate real-world smart city infrastructure  
+✅ Demonstrate advanced database concepts  
+✅ Apply relational database design principles  
+✅ Showcase Oracle SQL & PL/SQL implementation  
+✅ Build scalable municipal system architecture  
 
 ---
 
@@ -215,10 +214,10 @@ Connects transportation records with active municipal participation.
 
 The project is heavily inspired by modern digital transformation initiatives including:
 
-🇦🇪 Dubai Smart Government
-🇸🇬 Singapore Smart Nation
-🇪🇬 Digital Egypt Initiative
-🏙️ New Administrative Capital (NAC)
+🇦🇪 Dubai Smart Government  
+🇸🇬 Singapore Smart Nation  
+🇪🇬 Digital Egypt Initiative  
+🏙️ New Administrative Capital (NAC)  
 
 ---
 
@@ -226,14 +225,14 @@ The project is heavily inspired by modern digital transformation initiatives inc
 
 This project demonstrates practical knowledge in:
 
-* 🧠 Database Design
-* ⚙️ Oracle SQL
-* ⚡ PL/SQL Programming
-* 🔗 Relational Algebra
-* 📊 Query Optimization
-* 🏙️ Smart City Infrastructure
-* 🗂️ Data Modeling
-* 🏛️ Municipal Information Systems
+- 🧠 Database Design
+- ⚙️ Oracle SQL
+- ⚡ PL/SQL Programming
+- 🔗 Relational Algebra
+- 📊 Query Optimization
+- 🏙️ Smart City Infrastructure
+- 🗂️ Data Modeling
+- 🏛️ Municipal Information Systems
 
 ---
 
@@ -241,22 +240,22 @@ This project demonstrates practical knowledge in:
 
 Potential future upgrades include:
 
-* 🌐 Web-Based Dashboard
-* 🔐 Authentication & Authorization
-* 📡 Real-Time Analytics
-* 🤖 Smart Service Automation
-* 🔗 API Integration
-* 🗺️ GIS & Smart Mapping
-* ☁️ Cloud Infrastructure Support
+- 🌐 Web-Based Dashboard
+- 🔐 Authentication & Authorization
+- 📡 Real-Time Analytics
+- 🤖 Smart Service Automation
+- 🔗 API Integration
+- 🗺️ GIS & Smart Mapping
+- ☁️ Cloud Infrastructure Support
 
 ---
 
 # 👨‍💻 Contributors
 
-* 👤 Mohamed Hazem Ahmed
-* 👤 Yahya Mohamed Salah El-Dein
-* 👤 Mostafa Ossama Mostafa
-* 👤 Islam Ahmed Mahmoud
+- 👤 Mohamed Hazem Ahmed  
+- 👤 Yahya Mohamed Salah El-Dein  
+- 👤 Mostafa Ossama Mostafa  
+- 👤 Islam Ahmed Mahmoud  
 
 ---
 
@@ -266,12 +265,12 @@ Potential future upgrades include:
 
 By integrating:
 
-🏢 Buildings
-👥 Citizens
-🪪 Identity Systems
-🛠️ Municipal Services
-🚗 Transportation Records
-📨 Administrative Workflows
+🏢 Buildings  
+👥 Citizens  
+🪪 Identity Systems  
+🛠️ Municipal Services  
+🚗 Transportation Records  
+📨 Administrative Workflows  
 
 the project demonstrates how modern cities can leverage database technologies to improve organization, governance, digital transformation, and public service efficiency.
 
